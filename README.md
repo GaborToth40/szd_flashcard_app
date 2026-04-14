@@ -1,0 +1,1 @@
+# szd_flashcard_app
