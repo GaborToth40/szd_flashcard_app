@@ -1,0 +1,6 @@
+__pycache__/
+.idea/
+.venv/
+app.log
+database.db
+settings.json
