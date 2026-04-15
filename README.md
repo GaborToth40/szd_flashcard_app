@@ -1,6 +1,6 @@
-# Szókártya alkalmazás
+# Szókártya-alkalmazás
 
-Ez egy asztali szókártya akalmazás időközönkénti ismétléses rendszerrel.
+Ez egy asztali szókártya-alkalmazás időközönkénti ismétléses rendszerrel.
 
 ## Telepítés és futtatás
 

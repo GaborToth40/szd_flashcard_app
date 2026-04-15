@@ -90,8 +90,8 @@ strings = {
     },
 
     "hu": {
-        "flashcard_application": "Szókártya alkalmazás",
-        "application_title": "Szókártya Alkalmazás",
+        "flashcard_application": "Szókártya-alkalmazás",
+        "application_title": "Szókártya-alkalmazás",
         "decks": "Paklik",
         "cards": "Kártyák",
         "learning": "Tanulás",
@@ -166,7 +166,7 @@ strings = {
         "successfully_saved": "Sikeresen mentve",
         "please_restart": "Kérem indítsa újra az alkalmazást, hogy a nyelvi változások érvénybe lépjenek",
 
-        "desktop_flashcard": "Ez egy asztali szókártya akalmazás időközönkénti ismétléses rendszerrel."
+        "desktop_flashcard": "Ez egy asztali szókártya-akalmazás időközönkénti ismétléses rendszerrel."
     }
 }
 
