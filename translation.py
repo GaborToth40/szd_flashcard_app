@@ -86,7 +86,7 @@ strings = {
         "successfully_saved": "Successfully saved",
         "please_restart": "Please restart the application for language changes to take effect",
 
-        "desktop_flashcard": "This is a desktop flashcard application with spaced repetition system."
+        "desktop_flashcard": "This is a desktop flashcard application with a spaced repetition system."
     },
 
     "hu": {
